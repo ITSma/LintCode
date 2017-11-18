@@ -1,0 +1,47 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DFS	二叉树路径和/binaryTreePathSum.cpp	/^        void DFS(TreeNode *root,vector<vector<int> > &ans,vector<int> &path,int key){$/;"	f	class:Solution
+Isleaf	二叉树路径和/binaryTreePathSum.cpp	/^        bool Isleaf(TreeNode *node){$/;"	f	class:Solution
+ListNode	helloworld.cpp	/^    ListNode(int x):val(x),next(nullptr){}$/;"	f	struct:ListNode
+ListNode	helloworld.cpp	/^struct ListNode{$/;"	s	file:
+Solution	655/bignumsadd.cpp	/^class Solution {$/;"	c	file:
+Solution	67/InorderTraversal.cpp	/^class Solution {$/;"	c	file:
+Solution	69/levelorder.cpp	/^class Solution{     \/\/只需再加一个变量标记每层的最后一个节点即可$/;"	c	file:
+Solution	helloworld.cpp	/^class Solution{$/;"	c	file:
+Solution	二叉树路径和/binaryTreePathSum.cpp	/^class Solution{$/;"	c	file:
+Traversal	67/InorderTraversal.cpp	/^    void Traversal(TreeNode *root,vector<int> &res){$/;"	f	class:Solution
+TreeNode	67/InorderTraversal.cpp	/^        TreeNode(int x):val(x),left(nullptr),right(nullptr){}$/;"	f	class:TreeNode
+TreeNode	67/InorderTraversal.cpp	/^class TreeNode{$/;"	c	file:
+TreeNode	BinaryTree.cpp	/^    TreeNode(int x):val(x),left(nullptr),right(nullptr){}$/;"	f	struct:TreeNode
+TreeNode	BinaryTree.cpp	/^struct TreeNode{$/;"	s	file:
+TreeNode	二叉树路径和/binaryTreePathSum.cpp	/^    TreeNode(int x):val(x),left(nullptr),right(nullptr){}$/;"	f	struct:TreeNode
+TreeNode	二叉树路径和/binaryTreePathSum.cpp	/^struct TreeNode{$/;"	s	file:
+addStrings	655/bignumsadd.cpp	/^    string addStrings(string &num1, string &num2) {$/;"	f	class:Solution
+binaryTreePathSum	二叉树路径和/binaryTreePathSum.cpp	/^        vector<vector<int>> binaryTreePathSum(TreeNode * root, int target){$/;"	f	class:Solution
+createTree	二叉树路径和/binaryTreePathSum.cpp	/^TreeNode* createTree(){$/;"	f
+inorderTraversal	67/InorderTraversal.cpp	/^    vector<int> inorderTraversal(TreeNode * root) {$/;"	f	class:Solution
+left	67/InorderTraversal.cpp	/^        TreeNode *left;$/;"	m	class:TreeNode	file:
+left	BinaryTree.cpp	/^    TreeNode *left;$/;"	m	struct:TreeNode	file:
+left	二叉树路径和/binaryTreePathSum.cpp	/^    TreeNode *left;$/;"	m	struct:TreeNode	file:
+levelDeserialize	BinaryTree.cpp	/^TreeNode* levelDeserialize(vector<TreeNode*> vec){$/;"	f
+levelOrder	69/levelorder.cpp	/^        vector<vector<int> > levelOrder(TreeNode * root){$/;"	f	class:Solution
+main	BinaryTree.cpp	/^int main()$/;"	f
+main	helloworld.cpp	/^int main(){$/;"	f
+main	二叉树路径和/binaryTreePathSum.cpp	/^int main(){$/;"	f
+next	helloworld.cpp	/^    ListNode *next;$/;"	m	struct:ListNode	file:
+paraseStr	二叉树路径和/binaryTreePathSum.cpp	/^void paraseStr(){$/;"	f
+paraseString	BinaryTree.cpp	/^vector<TreeNode*> paraseString(const string s){$/;"	f
+preOder	BinaryTree.cpp	/^void preOder(TreeNode *r){$/;"	f
+print	helloworld.cpp	/^    void print(){$/;"	f	class:Solution
+right	67/InorderTraversal.cpp	/^        TreeNode *right;$/;"	m	class:TreeNode	file:
+right	BinaryTree.cpp	/^    TreeNode *right;$/;"	m	struct:TreeNode	file:
+right	二叉树路径和/binaryTreePathSum.cpp	/^    TreeNode *right;$/;"	m	struct:TreeNode	file:
+val	67/InorderTraversal.cpp	/^        int val;$/;"	m	class:TreeNode	file:
+val	BinaryTree.cpp	/^    int val;$/;"	m	struct:TreeNode	file:
+val	helloworld.cpp	/^    int val;$/;"	m	struct:ListNode	file:
+val	二叉树路径和/binaryTreePathSum.cpp	/^    int val;$/;"	m	struct:TreeNode	file:
+vec	二叉树路径和/binaryTreePathSum.cpp	/^vector<TreeNode*> vec;$/;"	v
