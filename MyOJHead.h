@@ -6,8 +6,8 @@
 #include<string>
 #include<queue>
 #include<math.h>
-#include<priority_queue>
-#include<algorithnm>
+#include<queue>
+#include<algorithm>
 
 using namespace std;
 
